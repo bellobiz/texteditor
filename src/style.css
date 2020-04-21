@@ -36,7 +36,7 @@ button {
     outline-color: transparent;
 }
 textarea {
-    background-image: url('postiteditorline.png');
+    background-image: url('editorruler.png');
     background-color: #333;
     color: #fff;
     font-family: monospace;
